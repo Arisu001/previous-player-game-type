@@ -16,6 +16,7 @@ scoreboard objectives remove p.M2-
 scoreboard objectives remove p.M3-
 scoreboard objectives remove p.CM0-3
 scoreboard objectives remove p.PM0-3
+scoreboard objectives remove previousPlayerGameType
 
 
 # disable datapack

@@ -1,6 +1,6 @@
 #═════════════════[ previousPlayerGameType ]═════════════════#
 
-> Ver_: 1.0.0
+> Ver_: 1.0.1
 > Language: French
 
 > Solo: Accepted ✔

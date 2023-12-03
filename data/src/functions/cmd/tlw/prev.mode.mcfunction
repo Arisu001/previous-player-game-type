@@ -1,0 +1,1 @@
+tellraw @s [{"text": "[", "color": "white"}, {"text": "TMS", "color": "dark_aqua"}, {"text": "] "}, {"text": "> ", "color": "yellow"}, {"selector": "@s", "color": "aqua"}, {"text": ", ton précédent mode de jeu utlisé", "color": "aqua"}, {"text": ": ", "color": "yellow"}, {"score": {"name": "@s", "objective": "p.PM0-3"}, "color": "gold"}]

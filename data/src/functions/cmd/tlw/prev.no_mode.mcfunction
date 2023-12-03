@@ -1,0 +1,1 @@
+tellraw @s [{"text": "[", "color": "white"}, {"text": "TMS", "color": "dark_aqua"}, {"text": "] "}, {"text": "> ", "color": "yellow"}, {"selector": "@s", "color": "blue"}, {"text": ", tu n'as pas encore changer de mode de jeu", "color": "blue"}]
